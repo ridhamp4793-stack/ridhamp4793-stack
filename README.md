@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=RIDHAM%20PATEL&fontSize=55&desc=Python%20Developer%20%7C%20Backend%20Development&descAlignY=65&animation=fadeIn" width="100%"/>
 
 <img src="https://img.shields.io/badge/PYTHON-DEVELOPER-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/B.Tech-GRADUATE-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/B.Tech-4th%20Year%20Student-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AHMEDABAD-INDIA-6C63FF?style=for-the-badge"/>
 
 </div>
