@@ -1,10 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Ridham Patel
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ridham%20Patel&fontSize=55&fontAlignY=38&desc=Python%20Developer%20%7C%20Backend%20%7C%20Modern%20Web%20Applications&descAlignY=60&animation=fadeIn&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=🐍+Python+Developer;💻+Turning+Ideas+Into+Real+Applications;🚀+React.js+%7C+Node.js+%7C+MongoDB;⚡+Code+%E2%80%A2+Create+%E2%80%A2+Innovate;🌱+Always+Learning+Something+New" />
+<br/>
 
-<br>
+<img src="https://img.shields.io/badge/PYTHON-DEVELOPER-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/B.Tech-GRADUATE-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AHMEDABAD-INDIA-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ridhamp4793-stack&label=PROFILE+VIEWS&style=for-the-badge" />
 
@@ -14,75 +18,17 @@
 
 <table>
 <tr>
-<td width="55%">
 
-## 🚀 About Me
+<td width="58%" valign="top">
 
-🐍 **Python Developer**
-
-🎓 B.Tech Graduate
-
-📍 Ahmedabad, Gujarat, India
-
-💻 Building modern & scalable applications
-
-⚡ Working with **Python, React.js, Node.js & MongoDB**
-
-🌱 Exploring advanced **Python & Backend Development**
-
-🎯 Focused on solving real-world problems through code
-
-🤝 Open to opportunities & collaborations
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# ⚡ Tech Arsenal
-
-<div align="center">
-
-### 🐍 Main Weapon
-
-<img src="https://skillicons.dev/icons?i=python" width="70"/>
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-
-### 🚀 Frameworks & Backend
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-# 👨‍💻 Developer Mode
+## 👨‍💻 About Me
 
 ```python
 class RidhamPatel:
-
     def __init__(self):
-        self.role = "Python Developer 🐍"
-        self.location = "Ahmedabad, India 🇮🇳"
-        self.education = "B.Tech Graduate 🎓"
+        self.role = "Python Developer"
+        self.education = "B.Tech Graduate"
+        self.location = "Ahmedabad, Gujarat, India"
 
         self.skills = [
             "Python",
@@ -91,16 +37,11 @@ class RidhamPatel:
             "MongoDB"
         ]
 
-        self.current_focus = [
+        self.focus = [
             "Backend Development",
             "REST APIs",
             "Scalable Applications"
         ]
 
     def mission(self):
-        return "Turn ideas into powerful real-world applications 🚀"
-
-
-developer = RidhamPatel()
-
-print(developer.mission())
+        return "Build. Learn. Improve. Repeat. 🚀"
